@@ -1,6 +1,7 @@
 import React from 'react'
 import HeaderOne from '../components/HeaderOne'
 import HeaderTwo from '../components/HeaderTwo'
+import HeaderThree from '../components/HeaderThree'
 
 function HomePage() {
   return (
@@ -8,6 +9,11 @@ function HomePage() {
       <HeaderOne/>
 
       <HeaderTwo/>
+      <HeaderThree/>
+      <HeaderOne/>
+      
+
+      
     </div>
   )
 }

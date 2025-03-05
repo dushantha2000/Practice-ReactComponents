@@ -7,10 +7,10 @@ function HeaderOne() {
         <div className="text-white text-xl font-bold">MyApp</div>
         <div className="space-x-4">
           <a href="/" className="text-white hover:text-gray-300">Home</a>
-          <a href="/about" className="text-white hover:text-gray-300">About</a>
-          <a href="/contact" className="text-white hover:text-gray-300">Contact</a>
-          <a href="/contact" className="text-white hover:text-gray-300">Services</a>
-          <a href="/contact" className="text-white hover:text-gray-300">Blogs</a>
+          <a href="/" className="text-white hover:text-gray-300">About</a>
+          <a href="/" className="text-white hover:text-gray-300">Contact</a>
+          <a href="/" className="text-white hover:text-gray-300">Services</a>
+          <a href="/" className="text-white hover:text-gray-300">Blogs</a>
         <button className="bg-white text-blue-500 px-4 py-2 rounded-lg hover:bg-gray-100">Login</button>
         <button className="bg-white text-blue-500 px-4 py-2 rounded-lg hover:bg-gray-100">register</button>
         </div>
